@@ -1,1 +1,1 @@
-# build-your-own-website
+# Simple Demo (without project photos)
