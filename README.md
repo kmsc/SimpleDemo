@@ -1,2 +1,1 @@
-# SimpleDemo
-Simple Personal Website Template
+# build-your-own-website
